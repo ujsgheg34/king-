@@ -228,6 +228,6 @@ async def on_interaction(interaction: discord.Interaction):
 # ---------- Run Bot ----------
 if __name__ == "__main__":
     keep_alive()  # ✅ keeps your bot 24/7 alive with UptimeRobot
-    bot.run("MTQyMzc4Mzc1MTAxMTQwNTg2NQ.GfaLEX.6abR6XmgxV29euFtgwBOIAcm6Le_8R1AqpUgvY")
+    bot.run("MTQyMzc4Mzc1MTAxMTQwNTg2NQ.G6TwNj.8tjvH-mBWCA8NV3UAHJxHON7mDUC_Tv3vjKEy8")
 
 
