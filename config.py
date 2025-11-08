@@ -1,7 +1,7 @@
 # config.py
 
 # ====== MAIN CONFIG ======
-BOT_TOKEN = "MTQyMzc4Mzc1MTAxMTQwNTg2NQ.GfaLEX.6abR6XmgxV29euFtgwBOIAcm6Le_8R1AqpUgvY"  # <-- yahan kuch mat likho agar Secrets use kar rahe ho
+BOT_TOKEN = "MTQyMzc4Mzc1MTAxMTQwNTg2NQ.G6TwNj.8tjvH-mBWCA8NV3UAHJxHON7mDUC_Tv3vjKEy8"  # <-- yahan kuch mat likho agar Secrets use kar rahe ho
 GUILD_ID = 1415326014224994508  # <-- apne Discord server ka ID yahan likho (number form me)
 
 # Category jahan tickets create hon (category channel ka ID)
